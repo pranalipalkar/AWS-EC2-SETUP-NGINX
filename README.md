@@ -1,7 +1,5 @@
 # AWS-EC2-SETUP-NGINX
 
-Here's the updated **README** with the default VPC and security group settings, where you only allow **HTTP** (port 80) and **HTTPS** (port 443) traffic:
-
 ---
 
 # 🚀 Hosting a Website on Nginx Server on AWS EC2 (Amazon Linux)
